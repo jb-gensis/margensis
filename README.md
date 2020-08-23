@@ -1,4 +1,4 @@
-<img src='https://drive.google.com/file/d/1q0MdsTxdbr_wND1QZergwZiK9IcqyE6T/view?usp=sharing' />
+<img src='https://drive.google.com/uc?export=view&id=1q0MdsTxdbr_wND1QZergwZiK9IcqyE6T' />
 
 ### Hi there, I'm John 👋
 
