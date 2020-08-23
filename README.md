@@ -2,13 +2,11 @@
 
 ### Hi there, I'm John :octocat:	
 
-## I'm a son to my Father and Mother ! 🤣🤣🤣
-
 - 🛠️ I’m currently working on [EmphTech, OPC][website]! :philippines:
-- 🌱 :monocle_face: I’m currently learning nothing ❌🤣
-- 👯 I’m looking for a crazy ideas
-- 🥅 2020 Goals: To make my body slimmer 💪
-- ⚡ Fun fact: I love eating rice 🤣 & debugging in 🚽
+> 🌱 :monocle_face: I’m currently learning nothing ❌🤣
+> 👯 I’m looking for a crazy ideas
+> 🥅 2020 Goals: To make my body slimmer 💪
+> ⚡ Fun fact: I love eating rice 🤣 & debugging in 🚽
 
 ### Connect with me:
 
