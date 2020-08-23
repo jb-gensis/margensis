@@ -46,7 +46,7 @@
 
 ---
 
-### Latest Blog Post
+### Latest Blog Post From codeSTACKr
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
