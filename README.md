@@ -1,20 +1,20 @@
 <img src='https://drive.google.com/uc?export=view&id=1q0MdsTxdbr_wND1QZergwZiK9IcqyE6T' />
 
-### Hi there, I'm John 👋
+### Hi there, I'm John 👋 :octocat:
 
-## I'm a son to my Father and Mother!
+## I'm a son to my Father and Mother ! 🤣🤣🤣
 
-- 🔭 I’m currently working on [EmphTech, OPC][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🛠️ I’m currently working on [EmphTech, OPC][website]! :philippines:
+- 🌱 :monocle_face: I’m currently learning nothing ❌🤣
 - 👯 I’m looking for a crazy ideas
-- 🥅 2020 Goals: To make my body slimmer
-- ⚡ Fun fact: I love eating rice 🤣
+- 🥅 2020 Goals: To make my body slimmer 💪
+- ⚡ Fun fact: I love eating rice 🤣 & debugging in 🚽
 
 ### Connect with me:
 
 [<img align="left" alt="" width="100px" src="https://drive.google.com/uc?export=view&id=1TOV_PJMgYw18bTLjpGYX2dh_JLRC5yut" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -58,6 +58,36 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
+
+<br />
+
+---
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+* Item 1
+* Item 2  
+  * Item 2a  
+  * Item 2b
+
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+*You **can** combine them*
+
+
+1. Item 1
+2. Item 2
+3. Item 3
+  * Item 3a
+  * Item 3b
+
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
+
 
 [website]: https://emphtech.com/ja/
 [twitter]: https://twitter.com/JbGensis
