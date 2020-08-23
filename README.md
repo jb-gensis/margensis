@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="100px" src="https://drive.google.com/uc?export=view&id=1TOV_PJMgYw18bTLjpGYX2dh_JLRC5yut" />][website]
+[<img align="left" alt="codeSTACKr" width="100px" src="https://drive.google.com/uc?export=view&id=1TOV_PJMgYw18bTLjpGYX2dh_JLRC5yut" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -71,12 +71,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Languages</summary>
+#### :zap: Github Pin
+<img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=margensis" />
 
-  <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=margensis" />
-
-</details>
 
 [website]: https://emphtech.com/ja/
 [twitter]: https://twitter.com/JbGensis
