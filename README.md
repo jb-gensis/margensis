@@ -57,6 +57,11 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
+### From Me 🤣 : Latest Codepen Post
+
+<!-- CODEPEN:START -->
+<!-- CODEPEN:END -->
+
 [website]: https://emphtech.com/ja/
 [twitter]: https://twitter.com/JbGensis
 [facebook]: https://www.facebook.com/jb.gensis.3
