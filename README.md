@@ -72,9 +72,10 @@
 </details>
 
 <br />
+<br />
 
 ---
-
+<br />
 #### :zap: Github Pin
 <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=margensis" />
 
