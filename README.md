@@ -66,11 +66,6 @@
 
 ###### :zap: Github Pin & Stats
 <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=margensis" />
-
-<br />
-<br />
-<br />
-
 <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=margensis&show_icons=true&hide_border=true&repo=github-readme-stats" />
 
 
