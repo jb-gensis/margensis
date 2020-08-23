@@ -4,13 +4,13 @@
 
 - 🛠️ I’m currently working on [EmphTech, OPC][website]! :philippines:
 <br/>
-> 🌱 :monocle_face: I’m currently learning nothing ❌🤣
+🌱 :monocle_face: I’m currently learning nothing ❌🤣
 <br/>
-> 👯 I’m looking for a crazy ideas
+👯 I’m looking for a crazy ideas
 <br/>
-> 🥅 2020 Goals: To make my body slimmer 💪
+🥅 2020 Goals: To make my body slimmer 💪
 <br/>
-> ⚡ Fun fact: I love eating rice 🤣 & debugging in 🚽
+⚡ Fun fact: I love eating rice 🤣 & debugging in 🚽
 
 ### Connect with me:
 
