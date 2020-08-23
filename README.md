@@ -74,7 +74,7 @@
 <details>
   <summary>:zap: Github Languages</summary>
 
-  <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=github-readme-stats" />
+  <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=margensis" />
 
 </details>
 
