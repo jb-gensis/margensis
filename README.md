@@ -71,12 +71,10 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
+###### :zap: Github Stats
 
-  <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=margensis&show_icons=true&hide_border=true&repo=github-readme-stats" />
+<img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=margensis&show_icons=true&hide_border=true&repo=github-readme-stats" />
 
-</details>
 
 [website]: https://emphtech.com/ja/
 [twitter]: https://twitter.com/JbGensis
