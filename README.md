@@ -64,21 +64,19 @@
 
 ---
 
+###### :zap: Github Pin
+<img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=margensis" />
+
+---
+
+<br />
+
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=margensis&show_icons=true&hide_border=true&repo=github-readme-stats" />
 
 </details>
-
-<br />
-<br />
-
----
-<br />
-#### :zap: Github Pin
-<img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=margensis" />
-
 
 [website]: https://emphtech.com/ja/
 [twitter]: https://twitter.com/JbGensis
