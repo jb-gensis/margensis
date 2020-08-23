@@ -1,6 +1,6 @@
 <img src='https://drive.google.com/uc?export=view&id=1q0MdsTxdbr_wND1QZergwZiK9IcqyE6T' />
 
-### Hi there, I'm John 👋 :octocat:
+### Hi there, I'm John 👋 :octocat:	
 
 ## I'm a son to my Father and Mother ! 🤣🤣🤣
 
@@ -16,6 +16,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 <br />
 
@@ -63,36 +64,25 @@
 
 ---
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+<details>
+  <summary>:zap: Github Stats</summary>
 
-* Item 1
-* Item 2  
-  * Item 2a  
-  * Item 2b
+  <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=margensis&show_icons=true&hide_border=true&repo=github-readme-stats" />
 
-*This text will be italic*
-_This will also be italic_
-**This text will be bold**
-__This will also be bold__
-*You **can** combine them*
+</details>
 
+<details>
+  <summary>:zap: Github Languages</summary>
 
-1. Item 1
-2. Item 2
-3. Item 3
-  * Item 3a
-  * Item 3b
+  <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=margensis&layout=compact" />
 
-GitHub supports emoji!
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
-
+</details>
 
 [website]: https://emphtech.com/ja/
 [twitter]: https://twitter.com/JbGensis
 [facebook]: https://www.facebook.com/jb.gensis.3
 [linkedin]: https://www.linkedin.com/in/john-gensis-b4198b157/
+[codepen]: https://codepen.io/margensis/pens/public
 
 [youtube]: https://youtube.com/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
