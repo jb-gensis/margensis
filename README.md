@@ -1,6 +1,6 @@
 <img src='https://drive.google.com/uc?export=view&id=1q0MdsTxdbr_wND1QZergwZiK9IcqyE6T' />
 
-### Hi there, I'm John 👋 :octocat:	
+### Hi there, I'm John :octocat:	
 
 ## I'm a son to my Father and Mother ! 🤣🤣🤣
 
