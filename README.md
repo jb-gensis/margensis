@@ -1,4 +1,4 @@
-<img src='./assets/img/profile-banner.png' />
+<img src='https://drive.google.com/file/d/1q0MdsTxdbr_wND1QZergwZiK9IcqyE6T/view?usp=sharing' />
 
 ### Hi there, I'm John 👋
 
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="100px" src="./assets/img/emphtech_logo.svg" />][website]
+[<img align="left" alt="" width="100px" src="https://drive.google.com/file/d/1TOV_PJMgYw18bTLjpGYX2dh_JLRC5yut/view?usp=sharing" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
