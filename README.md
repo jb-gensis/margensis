@@ -1,4 +1,4 @@
-<img src='./assets/img/profile-banner.svg' />
+<img src='./assets/img/profile-banner.png' />
 
 ### Hi there, I'm John 👋
 
