@@ -50,7 +50,7 @@
 
 ###### :zap: Github Pin & Stats
 <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=margensis" />
-<img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=margensis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+<img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=margensis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 
 [website]: https://emphtech.com/ja/
