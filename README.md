@@ -41,6 +41,11 @@
 <br />
 <br />
 
+### From codeSTACKr : Latest Blog Post
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://emphtech.com/ja/
 [twitter]: https://twitter.com/JbGensis
 [facebook]: https://www.facebook.com/jb.gensis.3
