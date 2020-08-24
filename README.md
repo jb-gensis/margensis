@@ -43,8 +43,8 @@
 
 ### From codeSTACKr : Latest Blog Post
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [website]: https://emphtech.com/ja/
 [twitter]: https://twitter.com/JbGensis
