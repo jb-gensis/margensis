@@ -3,7 +3,7 @@
 ### Hi there, I'm John :octocat:	
 
 - 🛠️ I’m currently working on [EmphTech, OPC][website]! :philippines:
-  - 🌱 :monocle_face: Still learning nothing cause of my mentaly absent ❌🤣
+  - 🌱 :monocle_face: Still learning nothing cause of my mentally absent ❌🤣
   - 👯 I’m looking for a crazy ideas
   - 🥅 2020 Goals: To make my body slimmer 💪 & do social distancing ...
   - ⚡ Fun fact: I love eating rice 🤣 & debugging in 🚽
