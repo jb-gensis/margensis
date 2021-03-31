@@ -1,16 +1,19 @@
-<img src='https://drive.google.com/uc?export=view&id=1q0MdsTxdbr_wND1QZergwZiK9IcqyE6T' />
-
-### Hi there, I'm John :octocat:	
-
-- 🛠️ I’m currently working on [EmphTech, OPC][website]! :philippines:
+<!---
+<img src='https://drive.google.com/uc?export=view&id=1q0MdsTxdbr_wND1QZergwZiK9IcqyE6T' /> 
+[<img align="left" alt="Emphtech" width="100px" src="https://drive.google.com/uc?export=view&id=1TOV_PJMgYw18bTLjpGYX2dh_JLRC5yut" />][website]
+- 🛠️ I’m currently working on [EmphTech, OPC][website]! 
   - 🌱 :monocle_face: Still learning nothing cause of my mentally absent ❌🤣
   - 👯 I’m looking for a crazy ideas
   - 🥅 2020 Goals: To make my body slimmer 💪 & do social distancing ...
   - ⚡ Fun fact: I love eating rice 🤣 & debugging in 🚽
+-->
+
+### Hi there, I'm John :octocat: :philippines:
+
+![image](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
 ### Connect with me:
 
-[<img align="left" alt="Emphtech" width="100px" src="https://drive.google.com/uc?export=view&id=1TOV_PJMgYw18bTLjpGYX2dh_JLRC5yut" />][website]
 [<img align="left" alt="Emphtech | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Emphtech | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Emphtech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,6 +43,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 ### Source From codeSTACKr:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=margensis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 -->
 
 
@@ -52,8 +56,6 @@
 
 ###### :zap: Github Pin & Stats
 <img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=margensis&repo=margensis" />
-<img align="left" alt="margensis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=margensis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-
 
 [website]: https://emphtech.com/ja/
 [twitter]: https://twitter.com/JbGensis
